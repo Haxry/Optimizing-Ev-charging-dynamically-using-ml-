@@ -1,0 +1,10 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+# Virtual environments
+ml_env/
+.ml_env/
+
+# Ignore local VS Code configurations
+.vscode/
